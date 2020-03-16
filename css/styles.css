@@ -1,1 +1,19 @@
 @charset "UTF-8";
+body {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-image: url(../images/grass.jpg);
+}
+navbar {
+}
+header {
+    background-color: #F193FF;
+}
+.container {
+    background-color: #F193FF;
+}
+main {
+}
+footer {
+    background-image: url(../images/grass.jpg);
+}
