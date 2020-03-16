@@ -16,4 +16,8 @@ main {
 }
 footer {
     background-image: url(../images/grass.jpg);
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
